@@ -211,8 +211,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/Pictures/Omslag3.jpg") top center;
-  background-size: 70%;
+  background: url("../img/Pictures/StijnSchuin3.jpg") top center;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
